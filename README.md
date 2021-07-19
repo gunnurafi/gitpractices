@@ -1,0 +1,2 @@
+# gitpractices
+first intial
